@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.back{
+    background-color: #008080;
+    text-align: center;
+}
+.btn button{
+    margin: 5px;
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 7px;
+    box-shadow: orange;
+    width: 150px;
+}
+.btn button:hover{
+    cursor: pointer;
+    margin: 10px;
+    border: none;
+    outline: none;
+    background-color: white;
+    padding: 8px;
+    box-shadow: 4px 4px orange;
+    transform: translate(-2px, 2px);
+
+}
